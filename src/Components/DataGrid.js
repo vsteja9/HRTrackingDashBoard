@@ -1,6 +1,6 @@
 import React , {useState} from 'react';
-import { DataGridPro, GridToolbar, GridToolbarQuickFilter } from '@mui/x-data-grid-pro';
-import { Box, Button, Dialog, Typography } from '@mui/material';
+import {  GridToolbar} from '@mui/x-data-grid-pro';
+import { Box, Button, Dialog } from '@mui/material';
 import { DataGrid } from '@mui/x-data-grid';
 import TypeSearch from './Search';
 import AddFieldForm from './AddFieldForm';
