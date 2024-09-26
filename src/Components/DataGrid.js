@@ -70,8 +70,8 @@ export default function EmployeeDataGrid() {
         sx={{
             backgroundColor: 'background.paper',
             // using minHeight to stabilize loading skeleton
-            minHeight: 670,
-            height: 670,
+            minHeight: 590,
+            height: 590,
             width: '100%',
             border: 1,
             borderColor: '#B8B7B7',
